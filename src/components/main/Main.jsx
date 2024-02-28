@@ -41,7 +41,7 @@ function Main() {
             <li className={styles.para2mob}>C.R.I.'s energy efficient products are well recognized by various Government Institutions, as trustworthy products for various projects across the globe to save energy.</li>
             <li className={styles.para2mob}>C.R.I. is the highest contributor in the country for the projects of EESL (Energy Efficiency Services Limited) to replace the old inefficient pumps with 5 Star rated energy efficient smart pumps with IoT enabled control panel.</li>
             </ul>
-            <img src={logo2mob} alt='third logo' className={styles.logo2mob} />
+            <img src={logo2} alt='third logo' className={styles.logo2mob} />
             <p className={styles.para2mob}>Government of India has awarded the <span className={styles.highlight}>"National Energy Conservation Award 2018".</span> Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.</p>
             </div>
             </div>
